@@ -14,15 +14,15 @@ Your program should…
 * produce at least one informative plot 
 * comprise >~ 50 lines of actual code (excluding comments and imports)
 
-Submit as source code (.py file) and pdf/png files of the output plot(s)
+Submit as source code (.py file) and pdf/png files of the output plot(s), or an IPython notebook
 Ideally as GitHub repo.  I will also accept submissions via email (steven.bamford@nottingham.ac.uk)
 
 Three stages:
-* by 23 October
+* by 23/30 October
   *  README describing what you intend your code to do
   * Rough outline of the code (classes, functions, snippets, comments, pseudocode)
   * Feedback in a week
-* by 6 November
+* by 6/13 November
   * Roughly working version of your code, although may be incomplete, have bugs, although try to make it reasonable and easy to understand!
   * Feedback in a week
 * by 27 November
