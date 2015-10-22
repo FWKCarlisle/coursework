@@ -14,7 +14,8 @@ Your program should…
 * produce at least one informative plot 
 * comprise >~ 50 lines of actual code (excluding comments and imports)
 
-Submit as source code (.py file) and pdf/png files of the output plot(s), or an IPython notebook
+Submit as source code (.py file) and pdf/png files of the output plot(s), or an IPython notebook.
+
 Ideally as GitHub repo.  I will also accept submissions via email (steven.bamford@nottingham.ac.uk)
 
 Three stages:
