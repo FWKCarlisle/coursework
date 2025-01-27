@@ -1,0 +1,9 @@
+name: Seder
+channels:
+  - defaults
+dependencies:
+  - lmfit
+  - matplotlib
+  - pandas
+  - scipy
+prefix: C:\Users\ppxfc1\AppData\Local\anaconda3\envs\Seder
